@@ -15,7 +15,7 @@ sections:
         <table>
           <tr>
             <td>
-              灌灌灌灌灌
+              ![alt text](avatar.png)
             </td>
             <td>
               这里是文字，可以描述图片内容或者任何其他内容。
