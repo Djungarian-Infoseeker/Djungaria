@@ -31,7 +31,7 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: true
     blox: "navbar"
     align: "center"
     fixed_to_top: true
@@ -40,7 +40,7 @@ header:
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     button:
-      enable: true
+      enable: false
       text: "Get Started"
       url: "https://hugoblox.com/templates/details/docs/"
     show_search: true
