@@ -31,7 +31,7 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: true
+    enable: false
     blox: "navbar"
     align: "center"
     fixed_to_top: true
