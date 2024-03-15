@@ -11,7 +11,7 @@ sections:
   - block: markdown
     content:
       title: Infoseeker-Yinjie Wang's Website
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: [screen reader text](avatar.png"caption")
 design:
   background:
     # Choose a color such as from https://html-color-codes.info
