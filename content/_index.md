@@ -12,13 +12,17 @@ sections:
     content:
       title: Infoseeker-Yinjie Wang's Website
       text: 
-      王胤杰 Wang Yinjie
+      <table>
+        <tr>
+          <td>
+            王胤杰
+          </td>
+          <td>
+            这里是文字，可以描述图片内容或者任何其他内容。
+          </td>
+        </tr>
+      </table>
 
-    features:
-      map:
-        provider: 'mapnik'
-        api_key: ''
-        zoom: 15
 design:
   background:
     # Choose a color such as from https://html-color-codes.info
