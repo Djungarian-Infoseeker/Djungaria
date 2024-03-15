@@ -27,8 +27,9 @@ sections:
          </table>
          <table>
            <tr>
-             <td colspan="2000" style="background-color: white; height: 10px;"> <!-- 创建一个宽度跨越两列的白色横杠，高度为10px -->
-             </td>
+               <td colspan="2" style="padding-left: 20px;"> <!-- 在横杠左侧添加空白 -->
+                 <div style="background-color: white; height: 10px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
+               </td>
            </tr>
          </table>
 
