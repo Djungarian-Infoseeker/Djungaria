@@ -11,7 +11,6 @@ sections:
   - block: markdown
     content:
       title: Infoseeker-Yinjie Wang's Website
-      text: 
-      我已经
+      text: 我已经
 
 ---
