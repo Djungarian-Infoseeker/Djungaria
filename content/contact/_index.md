@@ -8,25 +8,43 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography
+  - block: markdown
     content:
-      # The user's folder name in `content/authors/`
-      username: admin
-      # Show a call-to-action button under your biography? (optional)
-      # To link to a file, upload it to your `static/uploads/` folder
-      button:
-        text: Download Résumé
-        url: uploads/resume.pdf
-    design:
-      banner:
-        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        filename: ''
-      biography:
-        # Customize the CSS style of your biography text (optional)
-        style: ''
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      title: Infoseeker-Yinjie Wang's Website
+      text: |-
+         <table>
+           <tr>
+             <td style="padding-right: 15px;"> <!-- 增加右边距离为20px -->
+               <img src="/avatar.png" alt="alt text">
+             </td>
+             <td>
+               <strong style="font-size: 20px;">王胤杰</strong><br>
+               同济大学海洋与地球科学学院 海洋科学系<br><br>
+               <strong style="font-size: 20px;">Yinjie Wang</strong><br>
+               Department of Marine Science, School of Ocean and Earth Sciences, Tongji University<br>
+             </td>
+           </tr>
+           <tr><td colspan="2" style="height: 20px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
+           <tr>
+             <td colspan="2" style="padding-left: 0px;"> <!-- 在横杠左侧添加空白 -->
+                <div style="background-color: white; height: 3px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
+             </td>
+           </tr>
+         </table>
+         <table>
+           <tr>
+             <td>
+               <strong style="font-size: 20px;">Academic Interest</strong><br>
+               Atmospheric and Oceanic Dynamics，Planetary Science，Complex System<br>
+             </td>
+           </tr>
+           <tr><td colspan="2" style="height: 20px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
+           <tr>
+             <td colspan="2" style="padding-left: 0px;"> <!-- 在横杠左侧添加空白 -->
+                <div style="background-color: white; height: 3px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
+             </td>
+           </tr>
+         </table>
+
+
 ---
