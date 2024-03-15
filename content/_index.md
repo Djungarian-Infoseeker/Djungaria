@@ -15,7 +15,7 @@ sections:
         <table>
           <tr>
             <td>
-              ![alt text](assets/media/avatar.png)
+              ![alt text](/avatar.png)
             </td>
             <td>
               **王胤杰**
