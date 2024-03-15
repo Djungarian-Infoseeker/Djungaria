@@ -8,35 +8,36 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
+- block: contact
     content:
-      title: Infoseeker's website
-      text: The easy, no-code technical documentation solution your users will love 🎉
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "Read more"
-          url: "/blog/"
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: ""
-      background:
-        color: ""
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ""
-          filters:
-            brightness: 0.5
+      title: Contact
+      text: |-
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nEHw8740WQungj9ay1bY-OHYfJhxEQkfKYiqFdxZU2c&cl=ffffff&w=a"></script>
+      # Contact (add or remove contact options as necessary)
+      email: wangyinjie@tongji.edu.cn
+      #phone: 888 888 88 88
+      address:
+        street: 1239 Siping Road
+        city: Yangpu District
+        region: Shanghai
+        postcode: '200092'
+        country: P.R. China
+        country_code: CN
+      directions: Ocean Building
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '31.284906919181495'
+        longitude: '121.50147636149214'  
+      directions: Ocean Building
+      #appointment_url: 'https://calendly.com'
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
   - block: stats
     content:
       items:
