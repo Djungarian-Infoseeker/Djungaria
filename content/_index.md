@@ -20,10 +20,10 @@ sections:
              <td>
                <strong style="font-size: 24px;">王胤杰</strong><br>
                同济大学海洋与地球科学学院 海洋科学系<br>
-               系外行星、大气与海洋动力学、复杂系统.
+               大气与海洋动力学、系外行星、复杂系统<br>
                <strong style="font-size: 24px;">Yinjie Wang</strong><br>
                Department of Marine Science, School of Ocean and Earth Sciences, Tongji University<br>
-               Exoplanet,Atmospheric and Oceanic Dynamics,Complex System.
+               Exoplanet,Atmospheric and Oceanic Dynamics,Complex System
              </td>
            </tr>
          </table>
