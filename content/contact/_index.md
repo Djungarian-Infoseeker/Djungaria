@@ -31,14 +31,5 @@ sections:
              </td>
            </tr>
          </table>
-         <table>
-           <tr>
-             <td>
-               <strong style="font-size: 20px;">Academic Interest</strong><br>
-               Atmospheric and Oceanic Dynamics，Planetary Science，Complex System<br>
-             </td>
-           </tr>
-         </table>
-
 
 ---
