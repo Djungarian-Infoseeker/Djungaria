@@ -36,9 +36,9 @@ header:
     align: "center"
     fixed_to_top: false
     logo:
-      text: ""
+      text: "Infoseeker"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: ""
     button:
       enable: false
       text: "Get Started"
