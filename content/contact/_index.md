@@ -30,8 +30,6 @@ sections:
                 <div style="background-color: white; height: 3px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
              </td>
            </tr>
-         </table>
-         <table>
            <tr>
              <td>
                <strong style="font-size: 20px;">Academic Interest</strong><br>
