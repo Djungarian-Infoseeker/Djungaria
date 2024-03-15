@@ -18,7 +18,10 @@ sections:
               ![alt text](assets/media/avatar.png)
             </td>
             <td>
-              这里是文字，可以描述图片内容或者任何其他内容。dasjdhasjdbajhsbdsjahbdhasjdbasjhdbsahjbdjhabfsdjhfbhdsjbf这里是文字，可以描述图片内容或者任何其他内容。dasjdhasjdbajhsbdsjahbdhasjdbasjhdbsahjbdjhabfsdjhfbhdsjbf这里是文字，可以描述图片内容或者任何其他内容。dasjdhasjdbajhsbdsjahbdhasjdbasjhdbsahjbdjhabfsdjhfbhdsjbf这里是文字，可以描述图片内容或者任何其他内容。dasjdhasjdbajhsbdsjahbdhasjdbasjhdbsahjbdjhabfsdjhfbhdsjbf这里是文字，可以描述图片内容或者任何其他内容。dasjdhasjdbajhsbdsjahbdhasjdbasjhdbsahjbdjhabfsdjhfbhdsjbf
+              **王胤杰**
+              同济大学海洋与地球科学学院 海洋科学系
+              **Yinjie Wang**
+              Department of Marine Science, School of Ocean and Earth Sciences, Tongji University
             </td>
           </tr>
         </table>
