@@ -30,6 +30,14 @@ sections:
                 <div style="background-color: white; height: 3px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
              </td>
            </tr>
+         <table>
+           <tr>
+             <td>
+               <strong style="font-size: 20px;">Academic Interest</strong><br>
+               Atmospheric and Oceanic Dynamics，Planetary Science，Complex System<br>
+             </td>
+           </tr>
          </table>
+
 
 ---
