@@ -27,7 +27,7 @@ sections:
          </table>
          <table>
            <tr>
-             <td colspan="20" style="background-color: white; height: 10px;"> <!-- 创建一个宽度跨越两列的白色横杠，高度为10px -->
+             <td colspan="2000" style="background-color: white; height: 10px;"> <!-- 创建一个宽度跨越两列的白色横杠，高度为10px -->
              </td>
            </tr>
          </table>
