@@ -14,13 +14,4 @@ sections:
       text: 
 
 ---
-<table>
-  <tr>
-    <td>
-      杀杀杀
-    </td>
-    <td>
-      杀杀杀
-    </td>
-  </tr>
-</table>
+huinds
