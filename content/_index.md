@@ -15,7 +15,7 @@ sections:
       <table>
         <tr>
           <td>
-            ![alt text](avatar.png)
+            王胤杰
           </td>
           <td>
             这里是文字，可以描述图片内容或者任何其他内容。
