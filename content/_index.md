@@ -24,7 +24,9 @@ sections:
                Department of Marine Science, School of Ocean and Earth Sciences, Tongji University<br>
              </td>
            </tr>
+           <tr>
            <br><br>
+           </tr>
            <tr>
              <td colspan="2" style="padding-left: 0px;"> <!-- 在横杠左侧添加空白 -->
                 <div style="background-color: white; height: 3px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
