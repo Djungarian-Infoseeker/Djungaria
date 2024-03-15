@@ -11,7 +11,7 @@ sections:
   - block: markdown
     content:
       title: Infoseeker-Yinjie Wang's Website
-      text: [screen reader text](avatar.png"caption")
+      text: {{< figure src="avatar.png" caption="A caption" numbered="true" >}}
 design:
   background:
     # Choose a color such as from https://html-color-codes.info
