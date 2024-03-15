@@ -11,7 +11,18 @@ sections:
   - block: markdown
     content:
       title: Infoseeker-Yinjie Wang's Website
-      text: {{< figure src="avatar.png" caption="A caption" numbered="true" >}}
+      text: 
+      <table>
+        <tr>
+          <td>
+            ![alt text](avatar.png)
+          </td>
+          <td>
+            这里是文字，可以描述图片内容或者任何其他内容。
+          </td>
+        </tr>
+      </table>
+
     features:
       map:
         provider: 'mapnik'
