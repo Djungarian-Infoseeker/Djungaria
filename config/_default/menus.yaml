@@ -17,7 +17,9 @@ main:
   - name: Community
     url: community/
     weight: 50
-
+  - name: Contact
+    url: contact/
+    weight: 60
 sidebar:
   - identifier: more
     name: Still need help?
