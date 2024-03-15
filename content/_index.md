@@ -18,12 +18,16 @@ sections:
                <img src="/avatar.png" alt="alt text">
              </td>
              <td>
-               <strong style="font-size: 24px;">王胤杰</strong><br>
+               <strong>王胤杰</strong><br>
                同济大学海洋与地球科学学院 海洋科学系<br>
-               大气与海洋动力学、系外行星、复杂系统<br>
-               <strong style="font-size: 24px;">Yinjie Wang</strong><br>
+               <strong>Yinjie Wang</strong><br>
                Department of Marine Science, School of Ocean and Earth Sciences, Tongji University<br>
-               Exoplanet,Atmospheric and Oceanic Dynamics,Complex System
+             </td>
+           </tr>
+         </table>
+         <table>
+           <tr>
+             <td colspan="2" style="background-color: white; height: 10px;"> <!-- 创建一个宽度跨越两列的白色横杠，高度为10px -->
              </td>
            </tr>
          </table>
