@@ -12,6 +12,11 @@ sections:
     content:
       title: Infoseeker-Yinjie Wang's Website
       text: {{< figure src="avatar.png" caption="A caption" numbered="true" >}}
+    features:
+        map:
+        provider: 'mapnik'
+        api_key: ''
+        zoom: 15
 design:
   background:
     # Choose a color such as from https://html-color-codes.info
