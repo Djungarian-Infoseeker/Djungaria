@@ -12,18 +12,19 @@ sections:
     content:
       title: Infoseeker-Yinjie Wang's Website
       text: |-
-        <table>
-          <tr>
-            <td>
-              ![alt text](/avatar.png)
-            </td>
-            <td>
-              **王胤杰**
-              同济大学海洋与地球科学学院 海洋科学系
-              **Yinjie Wang**
-              Department of Marine Science, School of Ocean and Earth Sciences, Tongji University
-            </td>
-          </tr>
-        </table>
+<table>
+  <tr>
+    <td>
+      <img src="/avatar.png" alt="alt text">
+    </td>
+    <td>
+      <strong>王胤杰</strong><br>
+      同济大学海洋与地球科学学院 海洋科学系<br>
+      <strong>Yinjie Wang</strong><br>
+      Department of Marine Science, School of Ocean and Earth Sciences, Tongji University
+    </td>
+  </tr>
+</table>
+
 
 ---
