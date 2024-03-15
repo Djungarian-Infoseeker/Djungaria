@@ -13,7 +13,7 @@ sections:
       title: Infoseeker-Yinjie Wang's Website
       text: {{< figure src="avatar.png" caption="A caption" numbered="true" >}}
     features:
-        map:
+      map:
         provider: 'mapnik'
         api_key: ''
         zoom: 15
