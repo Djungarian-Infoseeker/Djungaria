@@ -8,38 +8,11 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: 王胤杰
-      text: 同济大学海洋与地球科学学院 海洋科学系
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "Read more"
-          url: "/blog/"
-  - block: hero
-    content:
-      title: Yinjie Wang
-      text: 同济大学海洋与地球科学学院 海洋科学系
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "Read more"
-          url: "/blog/"
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       card:
         # Card background color (CSS class)
