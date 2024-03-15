@@ -31,9 +31,8 @@ sections:
              </td>
            </tr>
            <tr>
-            <td>
-               Planetary Science,Atmospheric & Oceanic Dynamics,Complex System
-             </td>
+              Planetary Science,Atmospheric & Oceanic Dynamics,Complex System
+           </tr>
          </table>
 
 
