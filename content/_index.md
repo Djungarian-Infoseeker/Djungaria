@@ -34,10 +34,8 @@ sections:
          <table>
            <tr>
              <td>
-               <strong style="font-size: 20px;">王胤杰</strong><br>
-               同济大学海洋与地球科学学院 海洋科学系<br><br>
-               <strong style="font-size: 20px;">Yinjie Wang</strong><br>
-               Department of Marine Science, School of Ocean and Earth Sciences, Tongji University<br>
+               <strong style="font-size: 20px;">Research Interest</strong><br>
+               Atmospheric and Oceanic Dynamics，Planetary Science，Complex System<br>
              </td>
            </tr>
            <tr><td colspan="2" style="height: 20px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
