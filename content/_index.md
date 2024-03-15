@@ -25,8 +25,8 @@ sections:
              </td>
            </tr>
            <tr>
-             <td colspan="2" style="padding-left: 20px;"> <!-- 在横杠左侧添加空白 -->
-                <div style="background-color: white; height: 10px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
+             <td colspan="2" style="padding-left: 0px;"> <!-- 在横杠左侧添加空白 -->
+                <div style="background-color: white; height: 3px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
              </td>
            </tr>
          </table>
