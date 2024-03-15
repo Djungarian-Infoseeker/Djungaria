@@ -8,39 +8,22 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: hero
+  - block: resume-biography
     content:
-      title: Contact
-      text: |-
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nEHw8740WQungj9ay1bY-OHYfJhxEQkfKYiqFdxZU2c&cl=ffffff&w=a"></script>
-      # Contact (add or remove contact options as necessary)
-      email: wangyinjie@tongji.edu.cn
-      #phone: 888 888 88 88
-      address:
-        street: 1239 Siping Road
-        city: Yangpu District
-        region: Shanghai
-        postcode: '200092'
-        country: P.R. China
-        country_code: CN
-      directions: Ocean Building
-      #office_hours:
-      #  - 'Monday 10:00 to 13:00'
-      #  - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '31.284906919181495'
-        longitude: '121.50147636149214'  
-      directions: Ocean Building
-      #appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
+      # The user's folder name in `content/authors/`
+      username: admin
+      # Show a call-to-action button under your biography? (optional)
+      # To link to a file, upload it to your `static/uploads/` folder
+      button:
+        text: Download Résumé
+        url: uploads/resume.pdf
+    design:
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: ''
+      biography:
+        # Customize the CSS style of your biography text (optional)
+        style: ''
   - block: stats
     content:
       items:
