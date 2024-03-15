@@ -19,11 +19,12 @@ sections:
              </td>
              <td>
                <strong style="font-size: 20px;">王胤杰</strong><br>
-               同济大学海洋与地球科学学院 海洋科学系<br>
+               同济大学海洋与地球科学学院 海洋科学系<br><br>
                <strong style="font-size: 20px;">Yinjie Wang</strong><br>
                Department of Marine Science, School of Ocean and Earth Sciences, Tongji University<br>
              </td>
            </tr>
+           <br><br>
            <tr>
              <td colspan="2" style="padding-left: 0px;"> <!-- 在横杠左侧添加空白 -->
                 <div style="background-color: white; height: 3px; width: 80%;"></div> <!-- 控制横杠的宽度和背景色 -->
