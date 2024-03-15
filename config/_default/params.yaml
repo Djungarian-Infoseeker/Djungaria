@@ -51,7 +51,7 @@ footer:
   copyright:
     notice: '© {year} My Company. This work is licensed under {license}'
     license:
-      enable: dalse
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
