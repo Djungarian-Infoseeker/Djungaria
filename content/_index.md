@@ -11,6 +11,7 @@ sections:
   - block: markdown
     content:
       title: Infoseeker-Yinjie Wang's Website
-      text: **王胤杰** 
+      text: 王胤杰
             同济大学海洋与地球科学学院
+
 ---
