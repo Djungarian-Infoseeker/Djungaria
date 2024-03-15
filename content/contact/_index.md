@@ -10,7 +10,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: Infoseeker-Yinjie Wang's Website
+      title: 
       text: |-
          <table>
            <tr>
