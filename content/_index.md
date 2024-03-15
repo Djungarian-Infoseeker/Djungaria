@@ -14,7 +14,7 @@ sections:
       text: |-
          <table>
            <tr>
-             <td style="padding-right: 20px;"> <!-- 增加右边距离为20px -->
+             <td style="padding-right: 15px;"> <!-- 增加右边距离为20px -->
                <img src="/avatar.png" alt="alt text">
              </td>
              <td>
