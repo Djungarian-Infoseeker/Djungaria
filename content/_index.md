@@ -13,9 +13,4 @@ sections:
       title: My title
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
