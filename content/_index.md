@@ -12,6 +12,15 @@ sections:
     content:
       title: Infoseeker-Yinjie Wang's Website
       text: |-
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nEHw8740WQungj9ay1bY-OHYfJhxEQkfKYiqFdxZU2c&cl=ffffff&w=a"></script>
+        <table>
+          <tr>
+            <td>
+              灌灌灌灌灌
+            </td>
+            <td>
+              这里是文字，可以描述图片内容或者任何其他内容。
+            </td>
+          </tr>
+        </table>
+
 ---
-huinds
