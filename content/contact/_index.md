@@ -37,13 +37,17 @@ sections:
               <!-- 左对齐的内容 -->
               <td style="text-align: left; width: 70%;">
                 <strong style="font-size: 20px;">简历</strong><br>
-                2002年4月, 山西省阳泉市矿区<br>
-                2020年7月, 山西省阳泉市第一中学校<br>
+                2002年4月  山西省阳泉市 矿区<br>
+                2020年7月  阳泉市第一中学校<br>
+                2020年9月  上海大学悉尼工商学院 国际经济与贸易系<br>
+                2021年9月  同济大学海洋与地球科学学院 海洋科学系<br>
               </td>
               <!-- 右对齐的内容 -->
               <td style="text-align: right; width: 30%;">
                 出生<br>
                 毕业<br>
+                入学<br>
+                入学<br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
