@@ -14,8 +14,8 @@ main:
   - name: Showcase
     url: showcase/
     weight: 40
-  - name: Community
-    url: community/
+  - name: Academic Interest
+    url: academic interest/
     weight: 50
   - name: Contact
     url: contact/
