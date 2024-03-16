@@ -59,8 +59,10 @@ sections:
             <tr>
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
                 <strong style="font-size: 20px;">Scientists&Resources</strong><br>
-                <a href="http://211.152.43.30:8889/index.jsp" target="_blank" style="text-decoration: underline;">Sanrenxin (Tongji University Earth Science Teaching Group Information Website)</a><br>
-                <a href="http://power.itp.ac.cn/~hao/" target="_blank" style="text-decoration: underline;">Hao Bailin（Chinese theoretical physicist, an academician of the Chinese Academy of Sciences）</a><br>
+                <a href="http://power.itp.ac.cn/~hao/" target="_blank" style="text-decoration: underline;">Professor Hao Bailin（Chinese theoretical physicist, an academician of the Chinese Academy of Sciences）</a><br>
+                <a href="https://corp.fudan.edu.cn/" target="_blank" style="text-decoration: underline;">Professor Haijun Yang & The Laboratory for Climate and Ocean-Atmosphere Studies (LaCOAS)</a><br>
+                <a href="https://atmoschem.org.cn/index.php?title=Main_Page" target="_blank" style="text-decoration: underline;">Professor Tzung-May FU & Atmospheric Chemistry and Climate Group at Southern University of Science and Technology</a><br>
+                <a href="http://211.152.43.30:8889/index.jsp" target="_blank" style="text-decoration: underline;">Tongji University Earth Science Teaching Group Information Website</a><br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
