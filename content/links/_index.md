@@ -51,6 +51,8 @@ sections:
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
                 <strong style="font-size: 20px;">Data</strong><br>
                 <a href="https://cds.climate.copernicus.eu/" target="_blank" style="text-decoration: underline;">Climate Data Store</a><br>
+                <a href="https://archive.eso.org/eso/eso_archive_main.html" target="_blank" style="text-decoration: underline;">ESO Observational Raw Data</a><br>
+                <a href="https://www.ncei.noaa.gov/products" target="_blank" style="text-decoration: underline;">NCEI Data & Product</a><br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
@@ -81,6 +83,32 @@ sections:
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
                 <strong style="font-size: 20px;">Interests</strong><br>
                 <a href="http://power.itp.ac.cn/~hao/" target="_blank" style="text-decoration: underline;"><strong>Hao Bailin</strong>（Chinese theoretical physicist, an academician of the Chinese Academy of Sciences）</a><br>
+              </td>
+            </tr>
+            <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
+            <tr>
+              <td colspan="2" style="padding-left: 0px;"> <!-- 保持一致，删除左侧空白 -->
+                 <div style="background-color: white; height: 2px; width: 100%; margin: 0;"></div> <!-- 保持横杠样式一致 -->
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
+                <strong style="font-size: 20px;">Tools</strong><br>
+                <a href="https://www.eoas.ubc.ca/~rich/map.html" target="_blank" style="text-decoration: underline;">M Map</a><br>
+                <a href="https://www.chadagreene.com/CDT/CDT_Getting_Started.html" target="_blank" style="text-decoration: underline;">Climate Data Toolbox for Matlab</a><br>
+              </td>
+            </tr>
+            <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
+            <tr>
+              <td colspan="2" style="padding-left: 0px;"> <!-- 保持一致，删除左侧空白 -->
+                 <div style="background-color: white; height: 2px; width: 100%; margin: 0;"></div> <!-- 保持横杠样式一致 -->
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
+                <strong style="font-size: 20px;">Journals</strong><br>
+                <a href="https://agupubs.onlinelibrary.wiley.com/" target="_blank" style="text-decoration: underline;">Publish with AGU</a><br>
+、、
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
