@@ -107,8 +107,13 @@ sections:
             <tr>
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
                 <strong style="font-size: 20px;">Journals</strong><br>
+                <a href="https://www.nature.com/" target="_blank" style="text-decoration: underline;">Nature</a><br>
+                <a href="https://www.science.org/journals" target="_blank" style="text-decoration: underline;">Science</a><br>
+                <a href="https://www.pnas.org/" target="_blank" style="text-decoration: underline;">PNAS</a><br>
+                <a href="https://www.nature.com/ngeo/" target="_blank" style="text-decoration: underline;">Nature Geoscience</a><br>
+                <a href="https://www.nature.com/natastron/" target="_blank" style="text-decoration: underline;">Nature Astronomy</a><br>
+                <a href="https://www.nature.com/nclimate/" target="_blank" style="text-decoration: underline;">Nature Climate Change</a><br>
                 <a href="https://agupubs.onlinelibrary.wiley.com/" target="_blank" style="text-decoration: underline;">Publish with AGU</a><br>
-、、
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
