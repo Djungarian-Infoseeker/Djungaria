@@ -35,13 +35,13 @@ sections:
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
             <tr>
               <!-- 左对齐的内容 -->
-              <td style="text-align: left;">
+              <td style="text-align: left; width: 70%;">
                 <strong style="font-size: 20px;">简历</strong><br>
                 2002年4月, 山西省阳泉市矿区<br>
                 2020年7月, 山西省阳泉市第一中学校<br>
               </td>
               <!-- 右对齐的内容 -->
-              <td style="text-align: right;">
+              <td style="text-align: right; width: 30%;">
                 出生<br>
                 毕业<br>
               </td>
