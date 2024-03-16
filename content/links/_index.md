@@ -13,7 +13,6 @@ sections:
       title: 
       text: |-
           <table>
-            <tr><td colspan="2" style="height: 20px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
             <tr>
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白 -->
                  <div style="background-color: white; height: 2px; width: 100%; margin: 0;"></div> <!-- 修改横杠颜色为白色，宽度为100%，边距为0 -->
@@ -22,8 +21,8 @@ sections:
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
             <tr>
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
-                <strong style="font-size: 20px;">Academic Interest</strong><br>
-                Atmospheric and Oceanic Dynamics，Planetary Science，Complex System<br>
+                <strong style="font-size: 20px;">Organization</strong><br>
+                <a href="https://www.ncei.noaa.gov/" target="_blank">NCEI<br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
