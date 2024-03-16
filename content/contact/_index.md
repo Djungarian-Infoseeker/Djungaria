@@ -35,8 +35,11 @@ sections:
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
             <tr>
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
-                <strong style="font-size: 20px;">Academic Interest</strong><br>
-                Atmospheric and Oceanic Dynamics，Planetary Science，Complex System<br>
+                <strong style="font-size: 20px;">Brief personal history</strong><br>
+                April 2002, Kuangqu, Yangquan, Shanxi Birth<br>
+                July 2020, Yangquan No.1 Middle School，Chengqu, Yangquan, Shanxi Graduation<br>
+                September 2020, SILC Business School, Shanghai University,Shanghai Entrance<br>
+                September 2021, Department of Marine Science, School of Ocean and Earth Sciences, Tongji University,Shanghai Entrance<br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
