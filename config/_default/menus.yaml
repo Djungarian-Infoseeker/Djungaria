@@ -5,9 +5,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
-    weight: 20
+  - name: Plants
+    url: Plants/
+    weight: 60
   - name: Blog
     url: blog/
     weight: 30
@@ -19,7 +19,7 @@ main:
     weight: 50
   - name: Contact
     url: contact/
-    weight: 60
+    weight: 20
 sidebar:
   - identifier: more
     name: Still need help?
