@@ -34,9 +34,6 @@ sections:
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
             <tr>
-              <strong style="font-size: 20px;">简历</strong><br>
-            </tr>
-            <tr>
               <!-- 左对齐的内容 -->
               <td style="text-align: left; width: 80%;">
                 2002年4月  山西省阳泉市矿区<br>
