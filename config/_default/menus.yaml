@@ -7,7 +7,7 @@ main:
     weight: 10
   - name: Plants
     url: docs/
-    weight: 60
+    weight: 70
   - name: Blog
     url: blog/
     weight: 30
@@ -20,6 +20,9 @@ main:
   - name: Contact
     url: contact/
     weight: 20
+  - name: Links
+    url: links/
+    weight: 60
 sidebar:
   - identifier: more
     name: Still need help?
