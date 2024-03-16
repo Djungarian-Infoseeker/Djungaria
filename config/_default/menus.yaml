@@ -6,7 +6,7 @@ main:
     url: /
     weight: 10
   - name: Plants
-    url: Plants/
+    url: plants/
     weight: 60
   - name: Blog
     url: blog/
