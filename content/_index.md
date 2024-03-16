@@ -35,7 +35,7 @@ sections:
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
             <tr>
               <td colspan="2" class="myLink" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
-                <strong style="font-size: 20px;color: skyblue;">Academic Interest</strong><br>
+                <strong style="font-size: 20px;color: skyblue;"><a href="https://infoseeker.cn/ai/" class="myLink" style="color: skyblue;">Academic Interest</a></strong><br>
                 Atmospheric and Oceanic Dynamics，Planetary Science，Complex System<br>
               </td>
             </tr>
