@@ -14,11 +14,11 @@ sections:
       text: |-
           <table>
             <tr>
-              <td style="padding-right: 15px;">
+              <td style="text-align: left; width: 30%;">
                 <img src="/avatar copy.png" alt="alt text">
               </td>
               <td>
-                <strong style="font-size: 20px;">王胤杰</strong><br>
+                <strong style="text-align: right; width: 70%;">王胤杰</strong><br>
                 <a href="https://www.tongji.edu.cn" target="_blank">同济大学</a><a href="https://mgg.tongji.edu.cn/" target="_blank">海洋与地球科学学院 海洋科学系</a><br> <!-- 添加超链接 -->
                 <strong style="font-size: 20px;">Yinjie Wang</strong><br>
                 <a href="https://mgg.tongji.edu.cn/mggen/main.htm" target="_blank">Department of Marine Science, School of Ocean and Earth Sciences</a>, <a href="https://en.tongji.edu.cn/" target="_blank">Tongji University</a><br> <!-- 添加超链接 -->
