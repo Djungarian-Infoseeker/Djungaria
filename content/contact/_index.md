@@ -15,7 +15,7 @@ sections:
           <table>
             <tr>
               <td style="padding-right: 15px;">
-                <img src="/avatar.png" alt="alt text">
+                <img src="/avatar copy.png" alt="alt text">
               </td>
               <td>
                 <strong style="font-size: 20px;">王胤杰</strong><br>
