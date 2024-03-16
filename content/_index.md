@@ -23,7 +23,7 @@ sections:
                 <strong style="font-size: 20px;">Yinjie Wang</strong><br>
                 <a href="https://mgg.tongji.edu.cn/" target="_blank">Department of Marine Science, School of Ocean and Earth Sciences</a>, <a href="https://www.tongji.edu.cn" target="_blank">Tongji University</a><br> <!-- 添加超链接 -->
                 <strong>Email:</strong><a href="mailto:wangyinjie@tongji.edu.cn">wangyinjie@tongji.edu.cn</a><br> <!-- 添加邮件链接 -->
-                <strong>Add: </strong>NO.1239 Siping Road, Shanghai, P.R. China<br>
+                <strong>Add: </strong><a href="https://www.bing.com/maps?cp=31.283704%7E121.500936&lvl=16.0" target="_blank">NO.1239 Siping Road, Shanghai, P.R. China</a><br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 20px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
