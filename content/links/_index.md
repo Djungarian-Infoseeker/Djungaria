@@ -58,8 +58,9 @@ sections:
             </tr>
             <tr>
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
-                <strong style="font-size: 20px;">Data</strong><br>
-                <a href="http://211.152.43.30:8889/index.jsp" target="_blank" style="text-decoration: underline;">Sanrenxin (Tongji University Introduction to Earth Science Teaching Group Information Website)</a><br>
+                <strong style="font-size: 20px;">Scientists&Resources</strong><br>
+                <a href="http://211.152.43.30:8889/index.jsp" target="_blank" style="text-decoration: underline;">Sanrenxin (Tongji University Earth Science Teaching Group Information Website)</a><br>
+                <a href="http://power.itp.ac.cn/~hao/" target="_blank" style="text-decoration: underline;">Hao Bailin（Chinese theoretical physicist, an academician of the Chinese Academy of Sciences）</a><br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
