@@ -22,6 +22,8 @@ sections:
                 同济大学海洋与地球科学学院 海洋科学系<br><br>
                 <strong style="font-size: 20px;">Yinjie Wang</strong><br>
                 Department of Marine Science, School of Ocean and Earth Sciences, Tongji University<br>
+                Email:wangyinjie@tongji.edu.cn
+                Add: NO.1239 Siping Road, Shanghai, P.R. China
               </td>
             </tr>
             <tr><td colspan="2" style="height: 20px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
