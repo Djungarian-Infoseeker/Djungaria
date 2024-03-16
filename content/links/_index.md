@@ -63,6 +63,8 @@ sections:
                 <a href="http://power.itp.ac.cn/~hao/" target="_blank" style="text-decoration: underline;"><strong>Professor Hao Bailin</strong>（Chinese theoretical physicist, an academician of the Chinese Academy of Sciences）</a><br>
                 <a href="https://corp.fudan.edu.cn/" target="_blank" style="text-decoration: underline;"><strong>Professor Haijun Yang</strong> The Laboratory for Climate and Ocean-Atmosphere Studies (LaCOAS)</a><br>
                 <a href="https://atmoschem.org.cn/index.php?title=Main_Page" target="_blank" style="text-decoration: underline;"><strong>Professor Tzung-May FU </strong> Atmospheric Chemistry and Climate Group at Southern University of Science and Technology</a><br>
+                <a href="https://huang-cl.github.io/" target="_blank" style="text-decoration: underline;"><strong>Associate Professor Chenliang Huang </strong> Shanghai Astronomical Observatory, Chinese Academy of Sciences</a><br>
+                <a href="https://ocean.tongji.edu.cn/space/ywzhang/" target="_blank" style="text-decoration: underline;"><strong>Professor Yanwei Zhang </strong> School of Ocean and Earth Science, Tongji University</a><br>
                 <a href="http://211.152.43.30:8889/index.jsp" target="_blank" style="text-decoration: underline;">Tongji University Earth Science Teaching Group Information Website</a><br>
               </td>
             </tr>
