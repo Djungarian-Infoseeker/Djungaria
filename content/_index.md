@@ -19,7 +19,7 @@ sections:
               </td>
               <td>
                 <strong style="font-size: 20px;">王胤杰</strong><br>
-                <a href="https://www.tongji.edu.cn" target="_blank">同济大学</a><a href="https://mgg.tongji.edu.cn/" target="_blank">海洋与地球科学学院 海洋科学系</a><br> <!-- 添加超链接 -->
+                <a href="https://www.tongji.edu.cn" class="myLink" target="_blank">同济大学</a><a href="https://mgg.tongji.edu.cn/" target="_blank">海洋与地球科学学院 海洋科学系</a><br> <!-- 添加超链接 -->
                 <strong style="font-size: 20px;">Yinjie Wang</strong><br>
                 <a href="https://mgg.tongji.edu.cn/mggen/main.htm" target="_blank">Department of Marine Science, School of Ocean and Earth Sciences</a>, <a href="https://en.tongji.edu.cn/" target="_blank">Tongji University</a><br> <!-- 添加超链接 -->
                 <strong>Email:</strong><a href="mailto:wangyinjie@tongji.edu.cn">wangyinjie@tongji.edu.cn</a><br> <!-- 添加邮件链接 -->
@@ -56,7 +56,6 @@ sections:
                 <strong style="font-size: 20px;">
                     <a href="https://infoseeker.cn/contact/" class="myLink" style="color: skyblue;">Curriculum Vitae</a>
                 </strong>
-
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
