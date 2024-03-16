@@ -31,10 +31,22 @@ sections:
                  <div style="background-color: white; height: 2px; width: 100%; margin: 0;"></div> <!-- 保持横杠样式一致 -->
               </td>
             </tr>
-                        <tr>
+            <tr>
               <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
                 <strong style="font-size: 20px;">Study</strong><br>
                 <a href="https://www.papaen.com/ielts/index" target="_blank" style="text-decoration: underline;">Papaen IELTS</a><br>
+              </td>
+            </tr>
+            <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
+            <tr>
+              <td colspan="2" style="padding-left: 0px;"> <!-- 保持一致，删除左侧空白 -->
+                 <div style="background-color: white; height: 2px; width: 100%; margin: 0;"></div> <!-- 保持横杠样式一致 -->
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" style="padding-left: 0px;"> <!-- 删除左侧空白，使文本对齐 -->
+                <strong style="font-size: 20px;">Data</strong><br>
+                <a href="https://cds.climate.copernicus.eu/" target="_blank" style="text-decoration: underline;">Climate Data Store</a><br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
