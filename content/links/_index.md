@@ -70,7 +70,7 @@ sections:
                 <a href="https://huang-cl.github.io/" target="_blank" style="text-decoration: underline;"><strong>Chenliang Huang </strong> Shanghai Astronomical Observatory, Chinese Academy of Sciences</a><br>
                 <a href="https://ocean.tongji.edu.cn/space/ywzhang/" target="_blank" style="text-decoration: underline;"><strong>Yanwei Zhang </strong> School of Ocean and Earth Science, Tongji University</a><br>
                 <a href="http://pkumet.live/group/doku.php/start" target="_blank" style="text-decoration: underline;"><strong>Xinyu Wen </strong> Climate Group at Peking Univeristy</a><br>
-                <a href="https://www.weizmann.ac.il/EPS/kaspi/" target="_blank" style="text-decoration: underline;"><strong>Yohai Kaspi</strong>Weizmann Institute of Science </a><br>
+                <a href="https://www.weizmann.ac.il/EPS/kaspi/" target="_blank" style="text-decoration: underline;"><strong> Yohai Kaspi</strong>Weizmann Institute of Science </a><br>
                 <a href="http://211.152.43.30:8889/index.jsp" target="_blank" style="text-decoration: underline;">Tongji University Earth Science Teaching Group Information Website</a><br>
               </td>
             </tr>
