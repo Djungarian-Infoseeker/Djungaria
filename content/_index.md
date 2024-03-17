@@ -54,7 +54,7 @@ sections:
                 }
                 </style>
                 <strong style="font-size: 20px;">
-                    <a href="https://infoseeker.cn/contact/" class="myLink" style="color: skyblue;">Curriculum Vitae</a><br>
+                    <a href="https://infoseeker.cn/cv/" class="myLink" style="color: skyblue;">Curriculum Vitae</a><br>
                     <a href="https://infoseeker.cn/links/" class="myLink" style="color: skyblue;">Links</a>
                 </strong>
               </td>
