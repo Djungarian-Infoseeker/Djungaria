@@ -56,6 +56,11 @@ sections:
                 <strong style="font-size: 20px;">
                     <a href="https://infoseeker.cn/cv/" class="myLink" style="color: skyblue;">Curriculum Vitae</a><br>
                     <a href="https://infoseeker.cn/links/" class="myLink" style="color: skyblue;">Links</a>
+                    <a href="https://infoseeker.cn/docs/" class="myLink" style="color: skyblue;">Programs&Researchs</a>
+                    <a href="https://infoseeker.cn/docs/" class="myLink" style="color: skyblue;">Experiences&Field Work</a>
+                    <a href="https://infoseeker.cn/docs/" class="myLink" style="color: skyblue;">My Plants</a>
+                    <a href="https://infoseeker.cn/docs/" class="myLink" style="color: skyblue;">Travels</a>
+                    <a href="https://infoseeker.cn/docs/" class="myLink" style="color: skyblue;">Personal</a>
                 </strong>
               </td>
             </tr>
