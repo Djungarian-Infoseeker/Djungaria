@@ -5,13 +5,13 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Plants
+  - name: Personal
     url: docs/
     weight: 70
-  - name: Blog
+  - name: Programs&Researchs
     url: blog/
     weight: 30
-  - name: Showcase
+  - name: Experiences&Field Work
     url: showcase/
     weight: 40
   - name: Academic Interest
