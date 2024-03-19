@@ -116,6 +116,14 @@ sections:
                 <a href="https://www.nature.com/natastron/" target="_blank" style="text-decoration: underline;">Nature Astronomy</a><br>
                 <a href="https://www.nature.com/nclimate/" target="_blank" style="text-decoration: underline;">Nature Climate Change</a><br>
                 <a href="https://agupubs.onlinelibrary.wiley.com/" target="_blank" style="text-decoration: underline;">Publish with AGU</a><br>
+                <a href="https://journals.ametsoc.org/view/journals/clim/clim-overview.xml" target="_blank" style="text-decoration: underline;">Journal of Climate</a><br>
+                <a href="https://www.science.org/journal/sciadv" target="_blank" style="text-decoration: underline;">Science Advances</a><br>
+                <a href="https://agupubs.onlinelibrary.wiley.com/journal/21698996" target="_blank" style="text-decoration: underline;">Journal of Geophysical Research: Atmospheres</a><br>
+                <a href="https://agupubs.onlinelibrary.wiley.com/journal/21699291" target="_blank" style="text-decoration: underline;">Journal of Geophysical Research: Oceans</a><br>
+                <a href="https://agupubs.onlinelibrary.wiley.com/journal/21699291" target="_blank" style="text-decoration: underline;">Journal of Geophysical Research: Oceans</a><br>
+                <a href="https://link.springer.com/journal/382" target="_blank" style="text-decoration: underline;">Climate Dynamics</a><br>
+                <a href="https://journals.ametsoc.org/view/journals/atsc/atsc-overview.xml" target="_blank" style="text-decoration: underline;">Journal of the Atmospheric Sciences</a><br>
+                <a href="https://agupubs.onlinelibrary.wiley.com/journal/19448007?journalRedirectCheck=true" target="_blank" style="text-decoration: underline;">Geophysical Research Letters</a><br>
               </td>
             </tr>
             <tr><td colspan="2" style="height: 10px;"></td></tr> <!-- 在这里添加一个空行的效果 -->
