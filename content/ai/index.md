@@ -1,14 +1,13 @@
 ---
-title: Community
+title: Academic Interest
 toc: true
 reading_time: false
 pager: false
 ---
-
-## Support
-
-Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
-
+From a young age, I developed a profound love for the natural sciences and became deeply interested in many disciplines. Therefore, I hope to write an article as a summary of my past days and also to look forward to my future research plans.Due to my family purchasing a considerable amount of popular science books for me from a young age, I displayed a strong interest in astronomy and biology during my kindergarten years. Next, I will start discussing astronomy.
+## Astronomy
+Although for a kindergarten child, the so-called interest in astronomy might not seem like astronomy in the academic sense. However, as time goes by, I increasingly feel that the preferences formed in early life can influence one's entire life. I once did not understand why so many busy scientists were willing to stoop down and engage in popular science activities with children. Now, I understand that these initial curiosities will plant the seeds of dreams for the next generation, sprouting at seemingly unexpected moments.
+My earliest memory related to astronomy dates back to around when I was three years old (2005), playing on the computer in my father's office. I was fussing to have his help me search for 'the nine planets' on Baidu (Note: 1. At that time, Pluto had not yet been excluded from the list of planets. 2. I was too young to type then), so that I could view the images by clicking the mouse myself.
 ## Docs
 
 - View the [Hugo Blox Documentation](https://docs.hugoblox.com/)
