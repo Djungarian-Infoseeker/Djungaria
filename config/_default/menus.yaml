@@ -11,15 +11,12 @@ main:
   - name: Experiences&Field Work
     url: showcase/
     weight: 40
-  - name: Academic Interest
-    url: ai/
-    weight: 50
   - name: CV
     url: cv/
     weight: 20
   - name: Links
     url: links/
-    weight: 60
+    weight: 50
 sidebar:
   - identifier: more
     name: Still need help?
