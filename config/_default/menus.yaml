@@ -6,10 +6,10 @@ main:
     url: /
     weight: 10
   - name: Personal
-    url: docs1/
+    url: docs/
     weight: 70
   - name: Programs&Researchs
-    url: blog/
+    url: doc/
     weight: 30
   - name: Experiences&Field Work
     url: showcase/
