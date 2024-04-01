@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: Astronomy
 weight: 2
 sidebar:
   open: true
