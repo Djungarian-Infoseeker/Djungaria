@@ -1,5 +1,5 @@
 ---
-title: Blog
-view: date-title-summary
+title: Experiences&Field Work
+view: landing
 url: /blog/
 ---
