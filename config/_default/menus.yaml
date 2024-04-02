@@ -9,7 +9,7 @@ main:
     url: docs/
     weight: 30
   - name: Experiences&Field Work
-    url: showcase/
+    url: blog/
     weight: 40
   - name: CV
     url: cv/
