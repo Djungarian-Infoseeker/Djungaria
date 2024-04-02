@@ -2,7 +2,7 @@ backend:
   name: github
   repo: laiscavalcanti/subsidiario.com
   branch: main # Branch to update (optional; defaults to master)
-  site_domain: https://infoseeker.netlify.app/
+  site_domain: https://infoseeker.cn/
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
@@ -12,7 +12,7 @@ media_library:
   name: uploadcare
   config:
     publicKey: demopublickey
-site_url: https://infoseeker.netlify.app/
+site_url: https://infoseeker.cn/
 slug:
   encoding: "ascii"
   clean_accents: true
