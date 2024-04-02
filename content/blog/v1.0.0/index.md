@@ -1,5 +1,5 @@
 ---
-title: v1.0.0 Released!
+title: The 7th Conference on Earth System Science
 summary: Hugo v1.0.0 released. Download now and follow the guide to get started in 5 minutes!
 date: 2023-01-01
 authors:
