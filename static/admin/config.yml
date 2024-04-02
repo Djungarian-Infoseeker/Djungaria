@@ -2,12 +2,21 @@ backend:
   name: github
   repo: laiscavalcanti/subsidiario.com
   branch: main # Branch to update (optional; defaults to master)
-  site_domain: https://kind-roentgen-c165d8.netlify.app/
+  site_domain: https://infoseeker.cn/
 
 publish_mode: editorial_workflow
-media_folder: static/assets/img
-public_folder: assets/img
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
 
+media_library:
+  name: uploadcare
+  config:
+    publicKey: demopublickey
+site_url: https://infoseeker.cn/
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 collections:
   - name: 'posts'
     label: 'Posts'
@@ -16,10 +25,13 @@ collections:
     public_folder: 'assets/img'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    fields:
+  - label: "Title"
+    name: "title"
+    widget: "string"
+    pattern: ['.{20,}', "Must have at least 20 characters"]
+  - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+  - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+  - {label: "Body", name: "body", widget: "markdown"}
+    comment: 'This is a multiline\ncomment'
+      
